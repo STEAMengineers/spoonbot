@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "ProPrj_spoonsmeter_2025-02-03")(type "KiCad")(uri "$(KIPRJMOD)/ProPrj_spoonsmeter_2025-02-03.pretty")(options "")(descr ""))
+)
